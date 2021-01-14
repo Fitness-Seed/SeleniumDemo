@@ -8,8 +8,9 @@
          <!--This is Avela's comment to commit -->
 
          
-         <! This is my main branch comment-->
+         <!-- This is my main branch comment-->
 
+    <!-- Adding comment through intelliJ-->
          
     <groupId>groupId</groupId>
     <artifactId>SeleniumProject</artifactId>
